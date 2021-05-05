@@ -5,4 +5,4 @@ const App = () => {
   return <h1>Carl Viberg - Portfolio</h1>
 }
 
-export default Appß
+export default App
